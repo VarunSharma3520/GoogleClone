@@ -1,0 +1,29 @@
+.col{
+    background-color: rgb(42, 42, 53);
+    color: white;
+    padding: 1rem;
+    margin-top: 1rem;
+    mix-blend-mode: 2rem;
+}
+.searchPage__logo {
+    object-fit: contain;
+    height: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    display: flex;
+    flex-direction: column;
+}
+.m-12{
+    margin: 3rem;
+}
+.ml-8{
+    margin-left: 15rem;
+}
+.blue-highlight{
+    color: rgb(0, 162, 255);
+}

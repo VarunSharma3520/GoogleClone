@@ -1,0 +1,20 @@
+.flex{
+    display: flex;
+}
+.w-3{
+    /* width: 30px; */
+}
+.flex-col{
+    flex-direction: column;
+}
+.title{
+    color: #5c5b5b;
+    font-weight: 200;
+    font-size: large;
+    margin-bottom: 5px;
+}
+.Image{
+    background-color: #ebeaea;
+    padding: 15px;
+    border-radius: 3px;
+}
